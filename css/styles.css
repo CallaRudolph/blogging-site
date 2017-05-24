@@ -5,6 +5,7 @@ h1 {
 }
 h2 {
   text-align: center;
+  color: black;
 }
 body {
   background-color: darkseagreen
@@ -15,4 +16,13 @@ body {
 }
 .unimportant {
   color: brown;
+}
+.right {
+  float: right;
+}
+.sidebar {
+  float: left;
+  color: brown;
+  width: 30%;
+  background-color: yellow;
 }
